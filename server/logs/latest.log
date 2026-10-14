@@ -77,3 +77,48 @@
 [14:25:36] [Thread-8/INFO]: [ELCI] Opened connection to/127.0.0.1:50239.
 [14:25:36] [Thread-30/INFO]: [ELCI] Starting output thread!
 [14:25:36] [Server thread/INFO]: [ELCI] Closed connection to/127.0.0.1:50239.
+[14:56:49] [Thread-36/INFO]: [ELCI] Starting output thread!
+[14:56:49] [Thread-8/INFO]: [ELCI] Opened connection to/127.0.0.1:50372.
+[14:56:49] [Thread-35/INFO]: [ELCI] Starting input thread
+[14:56:49] [Server thread/INFO]: [m
+[14:56:49] [Server thread/INFO]: [m
+[14:56:49] [Server thread/INFO]: [m
+[14:56:49] [Server thread/INFO]: [m
+[14:56:49] [Server thread/INFO]: [m
+[14:56:49] [Server thread/INFO]: [ELCI] Closed connection to/127.0.0.1:50372.
+[15:12:56] [Thread-44/INFO]: [ELCI] Starting output thread!
+[15:12:56] [Thread-8/INFO]: [ELCI] Opened connection to/127.0.0.1:50565.
+[15:12:56] [Thread-43/INFO]: [ELCI] Starting input thread
+[15:12:56] [Server thread/INFO]: [m
+[15:12:56] [Server thread/INFO]: [m
+[15:12:56] [Server thread/INFO]: [m
+[15:12:56] [Server thread/INFO]: [m
+[15:12:56] [Server thread/INFO]: [m
+[15:12:56] [Server thread/INFO]: [ELCI] Closed connection to/127.0.0.1:50565.
+[15:23:43] [Thread-8/INFO]: [ELCI] Opened connection to/127.0.0.1:50715.
+[15:23:43] [Thread-50/INFO]: [ELCI] Starting input thread
+[15:23:43] [Thread-51/INFO]: [ELCI] Starting output thread!
+[15:23:43] [Server thread/INFO]: [m
+[15:23:43] [Server thread/INFO]: [m
+[15:23:43] [Server thread/INFO]: [m
+[15:23:43] [Server thread/INFO]: [m
+[15:23:43] [Server thread/INFO]: [m
+[15:23:43] [Server thread/INFO]: [ELCI] Closed connection to/127.0.0.1:50715.
+[15:43:17] [Thread-8/INFO]: [ELCI] Opened connection to/127.0.0.1:51013.
+[15:43:17] [Thread-61/INFO]: [ELCI] Starting input thread
+[15:43:17] [Thread-62/INFO]: [ELCI] Starting output thread!
+[15:43:17] [Server thread/INFO]: [m
+[15:43:17] [Server thread/INFO]: [m
+[15:43:17] [Server thread/INFO]: [m
+[15:43:17] [Server thread/INFO]: [m
+[15:43:17] [Server thread/INFO]: [m
+[15:43:18] [Server thread/INFO]: [ELCI] Closed connection to/127.0.0.1:51013.
+[15:48:39] [Thread-63/INFO]: [ELCI] Starting input thread
+[15:48:39] [Thread-8/INFO]: [ELCI] Opened connection to/127.0.0.1:51104.
+[15:48:39] [Thread-64/INFO]: [ELCI] Starting output thread!
+[15:48:39] [Server thread/INFO]: [m
+[15:48:39] [Server thread/INFO]: [m
+[15:48:39] [Server thread/INFO]: [m
+[15:48:39] [Server thread/INFO]: [m
+[15:48:39] [Server thread/INFO]: [m
+[15:48:39] [Server thread/INFO]: [ELCI] Closed connection to/127.0.0.1:51104.
