@@ -122,3 +122,47 @@
 [15:48:39] [Server thread/INFO]: [m
 [15:48:39] [Server thread/INFO]: [m
 [15:48:39] [Server thread/INFO]: [ELCI] Closed connection to/127.0.0.1:51104.
+[16:00:17] [Thread-8/INFO]: [ELCI] Opened connection to/127.0.0.1:51259.
+[16:00:17] [Thread-72/INFO]: [ELCI] Starting output thread!
+[16:00:17] [Thread-71/INFO]: [ELCI] Starting input thread
+[16:00:18] [Server thread/INFO]: [ELCI] Closed connection to/127.0.0.1:51259.
+[16:03:27] [Thread-74/INFO]: [ELCI] Starting input thread
+[16:03:27] [Thread-75/INFO]: [ELCI] Starting output thread!
+[16:03:27] [Thread-8/INFO]: [ELCI] Opened connection to/127.0.0.1:51308.
+[16:03:28] [Server thread/INFO]: [ELCI] Closed connection to/127.0.0.1:51308.
+[16:14:26] [Thread-76/INFO]: [ELCI] Starting input thread
+[16:14:26] [Thread-8/INFO]: [ELCI] Opened connection to/127.0.0.1:51401.
+[16:14:26] [Thread-77/INFO]: [ELCI] Starting output thread!
+[16:14:27] [Server thread/INFO]: [ELCI] Closed connection to/127.0.0.1:51401.
+[16:24:30] [Server thread/INFO]: Rudy121206 lost connection: Disconnected
+[16:24:30] [Server thread/INFO]: Rudy121206 left the game
+[16:27:01] [Thread-8/INFO]: [ELCI] Opened connection to/127.0.0.1:51492.
+[16:27:01] [Thread-90/INFO]: [ELCI] Starting output thread!
+[16:27:01] [Thread-89/INFO]: [ELCI] Starting input thread
+[16:27:01] [Server thread/WARN]: [ELCI] [!!WARNING!!] Valid player entity does not exist on server.
+[16:27:01] [Server thread/INFO]: [ELCI] Closed connection to/127.0.0.1:51492.
+[16:27:59] [User Authenticator #2/INFO]: UUID of player Rudy121206 is 9096aa30-75b1-472f-8d52-ec457041e822
+[16:28:00] [Server thread/INFO]: Welcome Rudy121206[m
+[16:28:00] [Server thread/INFO]: Rudy121206 joined the game
+[16:28:00] [Server thread/INFO]: Rudy121206[/127.0.0.1:51507] logged in with entity id 4937 at ([world]-14.664928040061918, 70.0, -83.52572954795318)
+[16:31:14] [Thread-95/INFO]: [ELCI] Starting input thread
+[16:31:14] [Thread-8/INFO]: [ELCI] Opened connection to/127.0.0.1:51526.
+[16:31:14] [Thread-96/INFO]: [ELCI] Starting output thread!
+[16:31:14] [Server thread/INFO]: [ELCI] Closed connection to/127.0.0.1:51526.
+[17:20:34] [Server thread/INFO]: Rudy121206 lost connection: Disconnected
+[17:20:34] [Server thread/INFO]: Rudy121206 left the game
+[17:20:42] [Thread-2/INFO]: Stopping server
+[17:20:42] [Server console handler/ERROR]: Exception handling console input
+java.io.IOException: Input/output error
+	at java.io.FileInputStream.readBytes(Native Method) ~[?:?]
+	at java.io.FileInputStream.read(FileInputStream.java:276) ~[?:?]
+	at java.io.BufferedInputStream.fill(BufferedInputStream.java:244) ~[?:?]
+	at java.io.BufferedInputStream.read(BufferedInputStream.java:263) ~[?:?]
+	at jline.internal.NonBlockingInputStream.read(NonBlockingInputStream.java:169) ~[jline-2.12.1.jar:?]
+	at jline.internal.NonBlockingInputStream.read(NonBlockingInputStream.java:137) ~[jline-2.12.1.jar:?]
+	at jline.internal.NonBlockingInputStream.read(NonBlockingInputStream.java:246) ~[jline-2.12.1.jar:?]
+	at jline.internal.InputStreamReader.read(InputStreamReader.java:261) ~[jline-2.12.1.jar:?]
+	at jline.internal.InputStreamReader.read(InputStreamReader.java:198) ~[jline-2.12.1.jar:?]
+	at jline.console.ConsoleReader.readCharacter(ConsoleReader.java:2145) ~[jline-2.12.1.jar:?]
+	at jline.console.ConsoleReader.readLine(ConsoleReader.java:2349) ~[jline-2.12.1.jar:?]
+	at net.minecraft.server.dedicated.DedicatedServer$1.run(DedicatedServer.java:117) ~[spigot-1.19.4-R0.1-SNAPSHOT.jar:3714-Spigot-b31949f-3ae9069]
