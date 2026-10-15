@@ -7,7 +7,8 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:forest": "2026-10-08 14:52:41 +1100"
+      "minecraft:forest": "2026-10-08 14:52:41 +1100",
+      "minecraft:meadow": "2026-10-15 14:13:30 +1100"
     },
     "done": false
   },
@@ -38,6 +39,12 @@
   "minecraft:recipes/building_blocks/jungle_wood": {
     "criteria": {
       "has_log": "2026-10-14 15:09:32 +1100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2026-10-15 14:13:50 +1100"
     },
     "done": true
   },
